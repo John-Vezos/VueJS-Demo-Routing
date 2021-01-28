@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## Add Routing
+```
+npm install --save vue-router@next
+```
 
 ### Compiles and hot-reloads for development
 ```
